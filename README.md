@@ -14,7 +14,7 @@ Potresti fare tutto questo dal terminale? si, tranquillamente.
 È uno sbatti in più? si. 
 
 
-Ogni tanto voglio solo finire il lavoro il prima possibile senza dover capire gli errori che mi da rsync(il 90% non hai più spazio) o scrivermi sempre la sintassi per scrivere gli script slurm o ricordarmi i nomi dei pc di dipartimento.
+Ogni tanto voglio solo finire il lavoro il prima possibile, senza dover capire gli errori che mi da rsync (il 90% delle volte è perché non hai più spazio), ricordarmi la sintassi degli script slurm o i nomi dei pc del dipartimento.
 
 
 Se da remoto devi modificare un file se non sai usare vim(task più difficile per un developer dopo centrare un div) puoi aprire l'editor remoto facendo doppio click sul file(non ti aspettare vscode).
